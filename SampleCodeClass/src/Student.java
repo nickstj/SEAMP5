@@ -40,6 +40,9 @@ public class Student {
 
     }
    
+   void wtfGitHub() {
+    
+   }
     void testAll()
  {
      System.out.println("Hello");
