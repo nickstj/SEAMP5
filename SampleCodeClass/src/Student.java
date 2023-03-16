@@ -16,6 +16,9 @@ public class Student {
     int SEAM;
     int FM;
    
+    void CountAll(){
+        
+    }
     void myTest(){
 
     }
