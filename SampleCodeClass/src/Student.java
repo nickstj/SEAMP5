@@ -29,24 +29,26 @@ public class Student {
     }
 
   
-    int getTotal()
-    {
+    int getTotal() {
         return (RE+SDA+SQAT+SEAM+FM);
     }
     
-    void testDisplay()
-    {
+    void testDisplay() {
         System.out.println("Testing...");
 
     }
    
-   void wtfGitHub() {
+    void wtfGitHub() {
     
-   }
-    void testAll()
- {
+    }
+
+    void testAll() {
      System.out.println("Hello");
      return;
-}
+    }
+
+    void drAwUnfairandCrazy(){
+        System.out.println("Fk Dr.Aw")
+    }
 
 }
