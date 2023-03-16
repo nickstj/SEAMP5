@@ -16,6 +16,10 @@ public class Student {
     int SEAM;
     int FM;
    
+    void myTest(){
+
+    }
+    
     double getAverageMark()
     {
         return (RE+SDA+SQAT+SEAM+FM)/4;
